@@ -1,6 +1,21 @@
 # Predict_presence_or_absence_of_protein
 
-Background:
+In this repository, the quality of classifications of several ML-Algorithms are compared to each other. The tested algorithms are: 
+* Support Vector Machine 
+
+* K-nearest neighbour 
+
+* decision tree 
+
+* random forest 
+
+* AdaBoost 
+
+* A single perceptron 
+
+* An ensemble of perceptrons
+
+## Background
 
 The recently started human and other genome projects are likely to change the situation of molecular biology. Comprehensive analyses of whole genomic sequences will enable us to understand the general mechanisms of how protein and nucleic acid functions are encoded in the sequence data. 
 
