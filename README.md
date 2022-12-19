@@ -2,17 +2,11 @@
 
 In this repository, the quality of classifications of several ML-Algorithms are compared to each other. The tested algorithms are: 
 * Support Vector Machine 
-
 * K-nearest neighbour 
-
 * decision tree 
-
 * random forest 
-
 * AdaBoost 
-
 * A single perceptron 
-
 * An ensemble of perceptrons
 
 ## Background
